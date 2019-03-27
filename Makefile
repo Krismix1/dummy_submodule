@@ -1,5 +1,5 @@
 SRCS=main.c
-EXECUTABLES=subservice
+EXECUTABLES=subservice1
 
 CC=gcc
 CFLAGS=-g -Wall -std=gnu99 -O0
